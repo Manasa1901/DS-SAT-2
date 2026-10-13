@@ -1,0 +1,7 @@
+component,mean_coverage,total_defects
+Data Access,75.36216666666665,48
+Reporting,71.9764406779661,53
+User Interface,67.11133333333333,57
+Payments,62.74458333333334,54
+Notifications,62.662,45
+Authentication,61.24933333333333,54
